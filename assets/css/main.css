@@ -1,0 +1,255 @@
+*{
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+html{
+  min-width: 100%;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+  -webkit-locale: "pt-BR";
+}
+.container{
+  position: relative;
+  z-index: 5;
+}
+.pagination li.active {
+  background-color: #09ac09;
+}
+.body{
+  filter:blur(.5px);
+  background: url(../img/bcg1.jpg) no-repeat scroll;
+  background-size:cover;
+  height: 100%
+}
+header{
+
+  min-height:100%;
+  position:relative;
+  width: 100%;
+  z-index: 2;
+  padding: 0 0 0 0;
+  margin: -5px 0 0 0;
+}
+footer{
+  margin: 0 0 0 0;
+}
+
+.navstyle{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction:row;
+  margin: 30px 0 0 0;
+}
+
+.navbar-fixed{
+  background-color: #004e00;
+  height: 74px
+}
+.nav{
+  background-color: #004e00;
+}
+.margem1{
+  margin: 0 15px 0 15px;
+  padding: 15px 0 0 0;
+}
+.margem2{
+  margin: 200px 0 0 0;
+  padding: 0 0 0 0;
+}
+.margem3 h4{
+  text-align: center;
+}
+.section{
+
+}
+.up{
+  margin: 0 0 0 0;
+}
+.box{
+width:280px;
+height:305px;
+max-width: 400px;
+-webkit-transform:translateY(-40%);
+-ms-transform:translateY(-40%);
+transform:translateY(60%);
+position:relative;
+margin:0 auto;
+z-index:2;
+color:#c0c0c0;
+text-align:center;
+margin-top: -50px;
+background-color: #055F31;
+border-radius: 10px;
+}
+.box p{
+  font-size: 18px
+}
+.line{
+  width: 120px;
+  padding: 25px 35;
+  height: .8px;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0) 0%, white 50%, rgba(0, 0, 0, 0) 100% );
+  margin: 15px auto;
+  transition:  width .4s ease-in-out;
+}
+.box:hover .line{
+    width: 200px;
+    height: .9px;
+}
+.page-footer{
+  margin: 0 0 0 0;
+}
+.page-footer ul li a{
+  color: aliceblue !important;
+  font-weight: normal !important;
+}
+.page-footer ul li a:hover{
+  color: white !important;
+  font-weight: bolder !important;
+}
+.geral{
+  min-height:100%;
+	position:relative;
+}
+.margem3{
+  margin: 5px 0 25px 0;
+  padding: 0 0 100px 0;
+  position: relative;
+}
+.1{
+  margin: 0 0 0 0;
+}
+.2{
+  margin: 0 0 0 0;
+}
+.glos{
+  text-align: left;
+  color: black;
+  margin: 25px 0 0 0;
+}
+.hero{
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: green;
+}
+hr {
+    border-color: #EAEAEA;
+    border-style: solid none none;
+    border-width: 1px 0 0;
+    height: 0;
+
+}
+.margin{
+  margin: 0 0 0 10px;
+}
+.margin p{
+  font-size: 18px;
+}
+.badge {
+    display: inline-block;
+    min-width: 10px;
+    padding: 3px 7px;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    background-color: #004e00;
+    border-radius: 10px;
+    margin: 20px 0 0 0;
+}
+.table {
+    width: 98%;
+    margin-bottom: 20px;
+
+}
+.quadrado{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #08a908;
+  text-align: center;
+  border-radius: 5px;
+  transition:  box-shadow .1s ease-in-out;
+}
+a .quadrado{
+  color: #01090c;
+}
+.quadrado:hover{
+  box-shadow: 3px 6px 7px #888888;
+}
+table {
+    max-width: 100%;
+    background-color: transparent;
+    border-collapse: collapse;
+border-spacing: 0;
+}
+.center p{
+  font-family: Georgia,Times New Roman,serif;
+  font-size: 20px;
+}
+@media screen and (min-width: 1400px){
+
+
+}
+@media screen and (max-width:980px){
+  .margem3{
+    margin: 5px 0 25px 0;
+    padding: 0 0 100px 0;
+    position: relative;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.position{
+  display: flex;
+}
+.container{
+  position: relative;
+
+}
+
+}
+
+@media screen and (max-width:550px){
+  .margem3{
+    margin: 5px 0 30px 0;
+    padding: 0 0 100px 0;
+    position: relative;
+    z-index: -1;
+  }
+  .container{
+    position: relative;
+  }
+  .box{
+  width:280px;
+  height:305px;
+  max-width: 400px;
+  -webkit-transform:translateY(-40%);
+  -ms-transform:translateY(-40%);
+  transform:translateY(60%);
+  position:relative;
+  margin: -57px auto 70px;
+  z-index:2;
+  color:#c0c0c0;
+  text-align:center;
+  background-color: #055F31;
+  border-radius: 10px;
+  }
+  .body{
+    filter:blur(.5px);
+    background: url(../img/bcg1.jpg) repeat scroll;
+    background-size:cover;
+    height: 100%
+  }
+  .hideOnTablet{
+      display: none;
+  }
+}

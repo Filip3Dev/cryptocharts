@@ -1,0 +1,167 @@
+
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+.box2{
+  width: 250px;
+  height: 250px;
+  background-color: blue;
+}
+.box3{
+  width: 150px;
+  height: 150px;
+  background-color: pink;
+}
+.red{
+  width: 150px;
+  height: 100px;
+  background-color: red;
+  color: black;
+}
+.1{
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  display: block;
+}
+.blue{
+  width: 150px;
+  height: 100px;
+  background-color: blue;
+  color: black;
+  display: none;
+}
+.2{
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  display: none;
+}
+.grey{
+  width: 150px;
+  height: 100px;
+  background-color: grey;
+  color: black;
+  display: none;
+}
+.3{
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+  display: none;
+}
+@media screen and (max-width:550px){
+  .box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+  }
+  .box2{
+    width: 250px;
+    height: 250px;
+    background-color: green;
+  }
+  .box3{
+    width: 150px;
+    height: 150px;
+    background-color: grey;
+  }
+  .red{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    color: black;
+    display: none;
+  }
+  .1{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    display: none;
+  }
+  .blue{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    color: black;
+    display: block;
+  }
+  .2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    display: block;
+  }
+  .grey{
+    width: 150px;
+    height: 100px;
+    background-color: grey;
+    color: black;
+    display: none;
+  }
+  .3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    display: none;
+  }
+}
+@media screen and (min-width: 550px) and (max-width: 950px){
+  .box{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+  }
+  .box2{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+  }
+  .box3{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    border-radius: 20px;
+  }
+  .red{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    color: black;
+    display: none;
+  }
+  .1{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    display: none;
+  }
+  .blue{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+    color: black;
+    display: none;
+  }
+  .2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    display: none;
+  }
+  .grey{
+    width: 150px;
+    height: 100px;
+    background-color: grey;
+    color: black;
+    display: block;
+  }
+  .3{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    display: block;
+  }
+}

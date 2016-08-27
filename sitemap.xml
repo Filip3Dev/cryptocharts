@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://cryptotrade.com.br/</loc>
+  <lastmod>2016-07-16T15:23:35+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/apresentacao.html</loc>
+  <lastmod>2016-07-16T15:48:21+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/analise.html</loc>
+  <lastmod>2016-07-16T15:49:43+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/charts/click.html</loc>
+  <lastmod>2016-07-16T06:18:32+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/glossario.html</loc>
+  <lastmod>2016-07-16T15:48:27+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/index.html</loc>
+  <lastmod>2016-07-16T15:23:35+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/basico1.html</loc>
+  <lastmod>2016-07-16T15:32:01+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/basico2.html</loc>
+  <lastmod>2016-07-16T05:57:45+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/charts/contato.html</loc>
+  <lastmod>2016-07-10T02:35:20+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/charts/free.html</loc>
+  <lastmod>2016-07-15T19:40:16+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/exchanges.html</loc>
+  <lastmod>2016-07-16T15:48:23+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/utilidades.html</loc>
+  <lastmod>2016-07-16T15:48:28+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://cryptotrade.com.br/assets/main/altcoins.html</loc>
+  <lastmod>2016-07-16T15:48:28+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
